@@ -1,0 +1,18 @@
+---
+plugin:
+  name: SamplePlugin
+  version: 0.1.0
+  commands:
+    - name: hello
+      help: "Prints Hello message"
+    - name: list-apps
+      help: "Lists all deployed apps"
+    - name: sample-command
+      help: "A sample command without arguments"
+    - name: sample-command-with-args
+      help: "A sample command that takes arguments"
+      arguments:
+          - name: arg1
+            help: "First argument"
+          - name: arg2
+            help: "Second argument"

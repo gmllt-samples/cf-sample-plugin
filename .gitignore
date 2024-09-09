@@ -1,0 +1,37 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.exe~
+*.out
+*.a
+
+# Go workspace
+bin/
+pkg/
+vendor/
+
+# Testing
+*.test
+
+# Output of build tools
+dist/
+cf-sample-plugin
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+*.pid
+*.seed
+*.swo
+
+# Editor directories and files
+.idea/
+.vscode/
+*.iml
+
+# Dependency management files
+go.sum
