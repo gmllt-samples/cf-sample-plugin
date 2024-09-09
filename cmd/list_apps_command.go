@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"code.cloudfoundry.org/cli/plugin"
-	"github.com/gmllt/cf-sample-plugin/utils"
+	"github.com/gmllt-samples/cf-sample-plugin/utils"
 )
 
 type ListAppsCommand struct{}

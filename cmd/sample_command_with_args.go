@@ -3,7 +3,7 @@ package cmd
 import (
 	"code.cloudfoundry.org/cli/plugin"
 	"fmt"
-	"github.com/gmllt/cf-sample-plugin/utils"
+	"github.com/gmllt-samples/cf-sample-plugin/utils"
 )
 
 type SampleCommandWithArgs struct{}

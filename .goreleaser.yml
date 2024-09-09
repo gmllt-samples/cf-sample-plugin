@@ -46,7 +46,7 @@ checksum:
 
 release:
   github:
-    owner: gmllt
+    owner: gmllt-samples
     name: cf-sample-plugin
   prerelease: auto
   name_template: '{{.Tag}}'

@@ -1,4 +1,4 @@
-module github.com/gmllt/cf-sample-plugin
+module github.com/gmllt-samples/cf-sample-plugin
 
 go 1.23.0
 

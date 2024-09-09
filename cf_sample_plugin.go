@@ -3,7 +3,7 @@ package main
 import (
 	"code.cloudfoundry.org/cli/plugin"
 	"fmt"
-	"github.com/gmllt/cf-sample-plugin/cmd"
+	"github.com/gmllt-samples/cf-sample-plugin/cmd"
 	"os"
 	"strconv"
 	"strings"
